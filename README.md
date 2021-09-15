@@ -6,7 +6,7 @@
 Projeto desenvolvido durante um curso da Rocketseat.
 
 ## Layout web
-![Web 1](imagens/dtmoney.mkv)
+![Web 1](imagens/dtmoney.mp4)
 
 
 # Tecnologias utilizadas
