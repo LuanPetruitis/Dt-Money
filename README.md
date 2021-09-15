@@ -25,7 +25,7 @@ Pré-requisitos: npm / yarn
 git clone https://github.com/LuanPetruitis/Dt-money.git
 
 # entrar na pasta do projeto front end web
-cd Dt-money
+cd Dt-Money
 
 # instalar dependências
 npm install
